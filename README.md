@@ -46,10 +46,14 @@ Prerequisites to run this application
    ```sh
    cd imageSearch && npm install
    ```
-3. Run
+3. Install pod
+   ```sh
+   cd ios && pod install
+   ```
+4. Run
    ```sh
    npx react-native run-ios
    ```
-4. If Prerequisites installed application will automatically opens up in simulator
+5. If Prerequisites installed application will automatically opens up in simulator
 
 
